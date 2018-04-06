@@ -1,0 +1,140 @@
+.gray{ background-color: #f2f2f2;}
+.gray2{ background-color: #000;}
+.gray3{ background-color: #e0e0e0;}
+.gray4{ background-color: #999;}
+.gray4{ background-color: #ededed;}
+
+
+.project_header{
+    background-color: #f2f2f2;
+    width:100%;
+    position: center;
+    background-repeat: no-repeat;
+    float: all;
+}
+
+
+.drop_shaddow{box-shadow: 2px 2px 10px rgba(124, 124, 124, 0.3);
+            }
+
+.project_header_incentive h2{line-height: 45px;}
+
+.white h4{color: white;}
+.white h5{color: white;}
+.white p{color: white;}
+.white h3{color: white;}
+
+.yellow{ background-color: #777;}
+.yellow2{ background-color: #e5e968;}
+
+
+.kettle1{ background-color: #fffa9b;} /*branded yellow*/
+.kettle2{ background-color: #20bee8;} /*blue*/
+.kettle3{ background-color: #0dd6b9;} /*green*/   /*need to change*/
+.kettle4{ background-color: #ffb097;} /*pink*/
+.kettle5{ background-color: #fff;}    /*white*/
+
+
+.whitebgcolor{ background-color: #fff;} 
+
+.applered{ background-color: #c34043;}   
+
+/*.sr_report{ background-color: #ededed;} 
+*/
+
+.ibmbluemix1 { background-color: #00597c;}
+.ibmbluemix2 { background-color: #061e27;}
+.ibmbluemix3 { background-color: #00aed1;}
+.ibmbluemix4 { background-color: #13162b;}
+
+
+.hawaii{ background-color: #ee624b;}
+
+.elevate1{ background-color: #c4dfe3;}
+.elevate2{ background-color: #f3eee4;}
+
+
+.evevate_package1{
+    height:800px;;
+    width:100%;
+    position: center;
+
+    background-image: url(../img/elevate/elevate_package1.png);
+    background-repeat: no-repeat;}
+
+
+
+.hawaii_header{
+    height:720px;;
+    width:100%;
+    position: center;
+
+    background-image: url(../img/hawaii/frame.png);
+    background-repeat: no-repeat;}
+
+.bear1{ background-color: #8ac39c;}
+.bear1 h2{color: #fff;}
+.bear1 h3{color: #fff;}
+.bear1 p{color: #fff;}
+
+.bikewest1 { background-color: #428899;}
+.bikewest2 { background-color: #efeede;}
+
+.ededed { background-color: #ededed;}
+
+
+
+
+.unfuck{ background-color: #6891c4;}
+.unfuck h2{color: #fff;}
+.unfuck h3{color: #fff;}
+.unfuck p{color: #fff;}
+
+
+.grey h2{color: #4C4C4C ;}
+.grey p{color: #4C4C4C ;}
+.grey h3{color: #4C4C4C ;}
+
+.entryscreen{
+	width:100%;
+	padding-bottom: 80%; /* 960px/1440px */
+	background-image: url(../img/bear_basics/gear_1.png);
+	background-size:cover;
+	background-position:center; /* IE fix */
+}
+
+
+.entryscreen2{
+    width:100%;
+	padding-bottom: 80%; /* 960px/1440px */
+	background-image: url(../img//bear_basics/mockeup_browser_leah.jpg);
+	background-size:cover;
+	background-position:center; /* IE fix */
+/*    padding-bottom: 66.666666666667%;  960px/1440px */
+}
+
+.entryscreen3{
+    width:100%;
+	padding-bottom: 60%; /* 960px/1440px */
+	background-image: url(../img//bikingwest/beartoothe.png);
+	background-size:cover;
+	background-position:center; /* IE fix */
+
+    border-bottom:  30px solid #f2f2f2}
+
+.entryscreen4{
+    width:100%;
+	padding-bottom: 60%; /* 960px/1440px */
+	background-image: url(../img//bikingwest/bike_spearfish.png);
+	background-size:cover;
+	background-position:center; /* IE fix */
+}
+
+
+
+
+
+
+
+
+
